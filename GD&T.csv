@@ -1,0 +1,20 @@
+category;characteristic;symbol_unicode;needs_datum;description;image_filename
+General Information;What is a Datum?;-;No;A theoretically exact plane, point, or axis from which a dimensional measurement is made and tolerances are established.;gdt_datum.jpg
+Material Principles;Maximum Material Condition (MMC);Ⓜ;No;The condition where a feature of size contains the maximum amount of material within the stated limits of size (e.g., largest pin or smallest hole).;gdt_mmc.jpg
+Material Principles;Least Material Condition (LMC);Ⓛ;No;The condition where a feature of size contains the least amount of material within the stated limits of size (e.g., smallest pin or largest hole).;gdt_lmc.jpg
+Form (Single Feature);Straightness;⏤;No;Condition where an element of a surface, or an derived median line, is a perfectly straight line.;gdt_straightness.jpg
+Form (Single Feature);Flatness;▱;No;Condition of a surface having all of its elements residing in one perfectly flat plane.;gdt_flatness.jpg
+Form (Single Feature);Roundness (Circularity);◯;No;Condition of a surface of revolution where all points intersected by a plane perpendicular to the axis are equidistant from that axis.;gdt_roundness.jpg
+Form (Single Feature);Cylindricity;⌭;No;Condition of a surface of revolution in which all points of the surface are exactly equidistant from a common axis.;gdt_cylindricity.jpg
+Form (Single Feature);Profile of a Line;⌒;No;When used without datums, it controls the 2D form (shape) of a specific linear cross-section.;gdt_profile_line_form.jpg
+Form (Single Feature);Profile of a Surface;⌓;No;When used without datums, it controls the 3D form (shape) of an entire surface.;gdt_profile_surface_form.jpg
+Orientation;Parallelism;∥;Yes;Condition of a surface or feature's center plane/axis that is exactly equidistant at all points from a datum.;gdt_parallelism.jpg
+Orientation;Perpendicularity;⟂;Yes;Condition of a surface, feature's center plane, or axis at an exact 90° right angle to a datum.;gdt_perpendicularity.jpg
+Orientation;Angularity;∠;Yes;Condition of a surface, center plane, or axis at any specified theoretical angle from a datum.;gdt_angularity.jpg
+Location;True Position;⌖;Yes;Defines a zone within which the center, axis, or center plane of a feature is permitted to vary from its theoretically exact location.;gdt_position.jpg
+Location;Coaxiality / Concentricity;◎;Yes;Condition where the median points of all diametrically opposed elements of a figure are congruent with the axis of a datum.;gdt_concentricity.jpg
+Location;Symmetry;⌯;Yes;Condition where the median points of opposed elements of two or more surfaces are congruent with a datum center plane.;gdt_symmetry.jpg
+Location;Profile of a Line;⌒;Yes;When used with datums, it controls not only the 2D form but also the orientation and/or location of a linear feature.;gdt_profile_line_loc.jpg
+Location;Profile of a Surface;⌓;Yes;When used with datums, it controls the 3D form, orientation, and location of an entire surface.;gdt_profile_surface_loc.jpg
+Runout;Circular Runout;↗;Yes;Provides control of circular elements of a surface, evaluated independently at each circular cross-section, as the part is rotated 360°.;gdt_circular_runout.jpg
+Runout;Total Runout;⌰;Yes;Provides composite control of all surface elements simultaneously across the entire surface as the part is rotated 360°.;gdt_total_runout.jpg
