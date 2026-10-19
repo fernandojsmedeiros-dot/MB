@@ -1,0 +1,13 @@
+ID,Categoria,Tipo de Material,Designacao / Dimensoes,Massa Linear (kg/m),Aplicacao Tipica / Destaque
+PRF-001,Trefilado,Barra Redonda (Alta Precisao),Diametro 6.35 mm,0.25,Eixos de precisao e pinos guia
+PRF-002,Trefilado,Barra Redonda (Alta Precisao),Diametro 12.7 mm,1.00,Eixos rotativos e hastes
+PRF-003,Trefilado,Barra Quadrada (Trefilada),12.7 x 12.7 mm,1.27,Guias e chavetas
+PRF-004,Trefilado,Barra Sextavada,Diametro 12.7 mm,1.10,Conexoes e porcas especiais
+PRF-005,Trefilado,Tubo Mecanico,Diametro 20.0 x 2.0 mm,0.85,Camisas e buchas de alta tolerancia
+PRF-006,Perfilado,Cantoneira (Abas Iguais),25.4 x 25.4 x 3.18 mm,1.16,Estruturas leves e racks
+PRF-007,Perfilado,Cantoneira (Abas Iguais),50.8 x 50.8 x 4.76 mm,3.57,Estruturas reforcadas
+PRF-008,Perfilado,Perfil T (Abas Iguais),25.4 x 25.4 x 3.18 mm,1.13,Travessas de serralheria
+PRF-009,Perfilado,Perfil I (Laminado),76.2 x 44.5 x 4.0 mm,5.90,Vigas de sustentacao
+PRF-010,Perfilado,Perfil H (Estrutural),150 x 150 mm,23.00,Pilares estruturais pesados
+PRF-011,Perfilado,Perfil U (Estrutural),76.2 x 38.1 x 4.0 mm,4.40,Guias lineares e trilhos
+PRF-012,Perfilado,Perfil T (Aba Larga),50.8 x 50.8 x 6.35 mm,4.50,Reforcos estruturais

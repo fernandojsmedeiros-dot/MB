@@ -1,0 +1,41 @@
+ID,Tipo de Rosca,Diâmetro Nominal,Passo / Rosca,Classe / Grau,Chave / Soquete (S) [mm / pol],Ø Externo Soquete (Aprox.) [mm],Chave Allen (Hex. Interno) [mm],Broca Pré-Furo (Tap Drill) [mm],Ferramenta de Rosqueamento
+PAR-001,Métrica Grossa,M6,1.00,8.8,10 mm,15.0,5 mm,5.0 mm,Macho M6 x 1.0
+PAR-002,Métrica Grossa,M6,1.00,10.9,10 mm,15.0,5 mm,5.0 mm,Macho M6 x 1.0
+PAR-003,Métrica Grossa,M6,1.00,12.9,10 mm,15.0,5 mm,5.0 mm,Macho M6 x 1.0
+PAR-004,Métrica Grossa,M8,1.25,8.8,13 mm,19.0,6 mm,6.8 mm,Macho M8 x 1.25
+PAR-005,Métrica Grossa,M8,1.25,10.9,13 mm,19.0,6 mm,6.8 mm,Macho M8 x 1.25
+PAR-006,Métrica Grossa,M8,1.25,12.9,13 mm,19.0,6 mm,6.8 mm,Macho M8 x 1.25
+PAR-007,Métrica Grossa,M10,1.50,8.8,17 mm,24.0,8 mm,8.5 mm,Macho M10 x 1.5
+PAR-008,Métrica Grossa,M10,1.50,10.9,17 mm,24.0,8 mm,8.5 mm,Macho M10 x 1.5
+PAR-009,Métrica Grossa,M10,1.50,12.9,17 mm,24.0,8 mm,8.5 mm,Macho M10 x 1.5
+PAR-010,Métrica Grossa,M12,1.75,8.8,19 mm,27.0,10 mm,10.2 mm,Macho M12 x 1.75
+PAR-011,Métrica Grossa,M12,1.75,10.9,19 mm,27.0,10 mm,10.2 mm,Macho M12 x 1.75
+PAR-012,Métrica Grossa,M12,1.75,12.9,19 mm,27.0,10 mm,10.2 mm,Macho M12 x 1.75
+PAR-013,Métrica Grossa,M14,2.00,8.8,22 mm,31.0,12 mm,12.0 mm,Macho M14 x 2.0
+PAR-014,Métrica Grossa,M14,2.00,10.9,22 mm,31.0,12 mm,12.0 mm,Macho M14 x 2.0
+PAR-015,Métrica Grossa,M14,2.00,12.9,22 mm,31.0,12 mm,12.0 mm,Macho M14 x 2.0
+PAR-016,Métrica Grossa,M16,2.00,8.8,24 mm,34.0,14 mm,14.0 mm,Macho M16 x 2.0
+PAR-017,Métrica Grossa,M16,2.00,10.9,24 mm,34.0,14 mm,14.0 mm,Macho M16 x 2.0
+PAR-018,Métrica Grossa,M16,2.00,12.9,24 mm,34.0,14 mm,14.0 mm,Macho M16 x 2.0
+PAR-019,Métrica Grossa,M18,2.50,8.8,27 mm,38.0,14 mm,15.5 mm,Macho M18 x 2.5
+PAR-020,Métrica Grossa,M18,2.50,10.9,27 mm,38.0,14 mm,15.5 mm,Macho M18 x 2.5
+PAR-021,Métrica Grossa,M20,2.50,8.8,30 mm,42.0,17 mm,17.5 mm,Macho M20 x 2.5
+PAR-022,Métrica Grossa,M20,2.50,10.9,30 mm,42.0,17 mm,17.5 mm,Macho M20 x 2.5
+PAR-023,Métrica Grossa,M20,2.50,12.9,30 mm,42.0,17 mm,17.5 mm,Macho M20 x 2.5
+PAR-024,Métrica Grossa,M22,2.50,8.8,34 mm,46.0,17 mm,19.5 mm,Macho M22 x 2.5
+PAR-025,Métrica Grossa,M22,2.50,10.9,34 mm,46.0,17 mm,19.5 mm,Macho M22 x 2.5
+PAR-026,Métrica Grossa,M24,3.00,8.8,36 mm,50.0,19 mm,21.0 mm,Macho M24 x 3.0
+PAR-027,Métrica Grossa,M24,3.00,10.9,36 mm,50.0,19 mm,21.0 mm,Macho M24 x 3.0
+PAR-028,Métrica Grossa,M24,3.00,12.9,36 mm,50.0,19 mm,21.0 mm,Macho M24 x 3.0
+PAR-029,Métrica Fina,M8x1,1.00,8.8,13 mm,19.0,6 mm,7.0 mm,Macho M8 x 1.0
+PAR-030,Métrica Fina,M8x1,1.00,10.9,13 mm,19.0,6 mm,7.0 mm,Macho M8 x 1.0
+PAR-031,Métrica Fina,M10x1.25,1.25,8.8,17 mm,24.0,8 mm,8.8 mm,Macho M10 x 1.25
+PAR-032,Métrica Fina,M10x1.25,1.25,10.9,17 mm,24.0,8 mm,8.8 mm,Macho M10 x 1.25
+PAR-033,Métrica Fina,M12x1.25,1.25,8.8,19 mm,27.0,10 mm,10.8 mm,Macho M12 x 1.25
+PAR-034,Métrica Fina,M12x1.75,1.75,8.8,19 mm,27.0,10 mm,10.2 mm,Macho M12 x 1.75
+PAR-035,Métrica Fina,M14x1.5,1.50,10.9,22 mm,31.0,12 mm,12.5 mm,Macho M14 x 1.5
+PAR-036,Métrica Fina,M16x1.5,1.50,10.9,24 mm,34.0,14 mm,14.5 mm,Macho M16 x 1.5
+PAR-037,Métrica Fina,M18x1.5,1.50,10.9,27 mm,38.0,14 mm,16.5 mm,Macho M18 x 1.5
+PAR-038,Imperial (UNC),"3/4""-10 TPI",Grade 8,"1-1/8"" (28.6 mm)",40.0,-,"16.5 mm (21/32"")","Macho 3/4""-10 UNC"
+PAR-039,Imperial (UNC),"7/8""-9 TPI",Grade 8,"1-5/16"" (33.3 mm)",46.0,-,"19.3 mm (49/64"")","Macho 7/8""-9 UNC"
+PAR-040,Imperial (UNC),"1""-8 TPI",Grade 8,"1-1/2"" (38.1 mm)",52.0,-,"22.2 mm (7/8"")","Macho 1""-8 UNC"

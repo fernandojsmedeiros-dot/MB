@@ -1,0 +1,10 @@
+ID,Categoria,Bitola / Nome Comercial,Diametro Nominal (mm),Area da Secao (cm²),Massa Linear (kg/m),Aplicacao Tipica / Destaque
+VER-001,Vergalhao Civil,5/16 pol (8.0 mm),8.0,0.50,0.395,Estribos,amarrações e lajes leves
+VER-002,Vergalhao Civil,3/8 pol (10.0 mm),10.0,0.79,0.617,Vigas,pilares e fundações residenciais
+VER-003,Vergalhao Civil,1/2 pol (12.5 mm),12.5,1.23,0.963,Estruturas de concreto armado usuais
+VER-004,Vergalhao Civil,16 mm,16.0,2.01,1.578,Pilares e fundações de médio porte
+VER-005,Vergalhao Civil,5/8 pol (20.0 mm),20.0,3.14,2.466,Estruturas pesadas e bases de máquinas
+VER-006,Vergalhao Civil,7/8 pol (22.0 mm),22.0,3.80,2.984,Blocos de coroamento e fundações
+VER-007,Vergalhao Civil,1 pol (25.0 mm),25.0,4.91,3.855,Grandes estruturas e tirantes de fixação
+VER-008,Vergalhao Civil,1.1/4 pol (32.0 mm),32.0,8.04,6.313,Infraestrutura pesada e bases industriais
+VER-009,Vergalhao Civil,1.1/2 pol (40.0 mm),40.0,12.57,9.865,Grandes fundações de equipamentos e tirantes estruturais

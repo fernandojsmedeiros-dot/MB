@@ -1,0 +1,41 @@
+ID,Tipo de Rosca,Diâmetro Nominal,Passo / Rosca,Classe / Grau,Área (mm²),Prova (MPa),Carga de Tração (kN),Carga de Cisalhamento (kN)
+PAR-001,Métrica Grossa,M6,1.00,8.8,20.1,600,12.1,7.2
+PAR-002,Métrica Grossa,M6,1.00,10.9,20.1,830,16.7,10.0
+PAR-003,Métrica Grossa,M6,1.00,12.9,20.1,970,19.5,11.7
+PAR-004,Métrica Grossa,M8,1.25,8.8,36.6,600,22.0,13.2
+PAR-005,Métrica Grossa,M8,1.25,10.9,36.6,830,30.4,18.2
+PAR-006,Métrica Grossa,M8,1.25,12.9,36.6,970,35.5,21.3
+PAR-007,Métrica Grossa,M10,1.50,8.8,58.0,600,34.8,20.9
+PAR-008,Métrica Grossa,M10,1.50,10.9,58.0,830,48.1,28.9
+PAR-009,Métrica Grossa,M10,1.50,12.9,58.0,970,56.3,33.8
+PAR-010,Métrica Grossa,M12,1.75,8.8,84.3,600,50.6,30.3
+PAR-011,Métrica Grossa,M12,1.75,10.9,84.3,830,70.0,42.0
+PAR-012,Métrica Grossa,M12,1.75,12.9,84.3,970,81.8,49.1
+PAR-013,Métrica Grossa,M14,2.00,8.8,115.0,600,69.0,41.4
+PAR-014,Métrica Grossa,M14,2.00,10.9,115.0,830,95.5,57.3
+PAR-015,Métrica Grossa,M14,2.00,12.9,115.0,970,111.6,66.9
+PAR-016,Métrica Grossa,M16,2.00,8.8,157.0,600,94.2,56.5
+PAR-017,Métrica Grossa,M16,2.00,10.9,157.0,830,130.3,78.2
+PAR-018,Métrica Grossa,M16,2.00,12.9,157.0,970,152.3,91.4
+PAR-019,Métrica Grossa,M18,2.50,8.8,192.0,600,115.2,69.1
+PAR-020,Métrica Grossa,M18,2.50,10.9,192.0,830,159.4,95.6
+PAR-021,Métrica Grossa,M20,2.50,8.8,245.0,600,147.0,88.2
+PAR-022,Métrica Grossa,M20,2.50,10.9,245.0,830,203.4,122.0
+PAR-023,Métrica Grossa,M20,2.50,12.9,245.0,970,237.7,142.6
+PAR-024,Métrica Grossa,M22,2.50,8.8,303.0,600,181.8,109.1
+PAR-025,Métrica Grossa,M22,2.50,10.9,303.0,830,251.5,150.9
+PAR-026,Métrica Grossa,M24,3.00,8.8,353.0,600,211.8,127.1
+PAR-027,Métrica Grossa,M24,3.00,10.9,353.0,830,293.0,175.8
+PAR-028,Métrica Grossa,M24,3.00,12.9,353.0,970,342.4,205.4
+PAR-029,Métrica Fina,M8x1,1.00,8.8,39.2,600,23.5,14.1
+PAR-030,Métrica Fina,M8x1,1.00,10.9,39.2,830,32.5,19.5
+PAR-031,Métrica Fina,M10x1.25,1.25,8.8,61.2,600,36.7,22.0
+PAR-032,Métrica Fina,M10x1.25,1.25,10.9,61.2,830,50.8,30.5
+PAR-033,Métrica Fina,M12x1.25,1.25,8.8,92.1,600,55.3,33.2
+PAR-034,Métrica Fina,M12x1.75,1.75,8.8,84.3,600,50.6,30.3
+PAR-035,Métrica Fina,M14x1.5,1.50,10.9,125.0,830,103.8,62.3
+PAR-036,Métrica Fina,M16x1.5,1.50,10.9,167.0,830,138.6,83.2
+PAR-037,Métrica Fina,M18x1.5,1.50,10.9,216.0,830,179.3,107.6
+PAR-038,Imperial (UNC),"3/4""-10 TPI",Grade 8,216.3,827,178.9,107.3
+PAR-039,Imperial (UNC),"7/8""-9 TPI",Grade 8,298.7,827,247.0,148.2
+PAR-040,Imperial (UNC),"1""-8 TPI",Grade 8,391.0,827,323.4,194.0

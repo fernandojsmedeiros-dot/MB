@@ -1,0 +1,9 @@
+ID,Serie,Dash Number,Diâmetro Interno (mm),Diâmetro do Perfil (W) (mm),Tipo de Canal,Profundidade do Canal (mm),Largura do Canal (mm)
+OR-001,AS568,6,2.90,1.78,Dinâmico,1.55,2.40
+OR-002,AS568,6,2.90,1.78,Estático,1.35,2.40
+OR-003,AS568,10,06.07,1.78,Dinâmico,1.55,2.40
+OR-004,AS568,10,06.07,1.78,Estático,1.35,2.40
+OR-005,AS568,110,9.19,2.62,Dinâmico,2.30,3.60
+OR-006,AS568,110,9.19,2.62,Estático,02.05,3.60
+OR-007,AS568,210,18.72,3.53,Dinâmico,3.10,4.80
+OR-008,AS568,210,18.72,3.53,Estático,2.80,4.80

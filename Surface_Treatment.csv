@@ -1,0 +1,14 @@
+name;category;base_material;process_type;prerequisites;salt_spray_hours;description
+White Zinc Plating;Electroplating;Steel;Cold Electroplating;Degreasing & Pickling;96;Basic sacrificial coating. Early white rust. Not recommended for outdoor use.
+Yellow Zinc Plating / Dichromate;Electroplating;Steel;Electroplating + Passivation;Degreasing & Pickling;240;Yellow/iridescent passivation significantly increases corrosion protection compared to white zinc.
+Hot-Dip Galvanizing (Z-100);Hot-Dip;Steel;Hot-Dip (Molten Zinc);Rigorous Chemical Cleaning;200;100 g/m² zinc coating weight (sum of faces). Light layer, focused on indoor or low-aggression environments.
+Hot-Dip Galvanizing (Z-180);Hot-Dip;Steel;Hot-Dip (Molten Zinc);Rigorous Chemical Cleaning;350;180 g/m² zinc coating weight. Intermediate protection, very common in roofing and light structural profiles.
+Hot-Dip Galvanizing (Z-275);Hot-Dip;Steel;Hot-Dip (Molten Zinc);Rigorous Chemical Cleaning;500;275 g/m² zinc coating weight. Robust standard for outdoor environments subject to weathering.
+Zinc Phosphating;Conversion;Steel;Chemical Conversion Bath;Alkaline Degreasing;48;Creates a layer of zinc crystals. Excellent adhesion base for paints or oil retention.
+Manganese Phosphating;Conversion;Steel;Chemical Conversion Bath;Alkaline Degreasing;48;Mechanical focus: creates a porous layer ideal for retaining protective oil and reducing friction in moving parts.
+Sulfuric Anodizing;Anodizing;Aluminum;Electrolytic Oxidation;Degreasing & Desmutting;300;Exclusive to Aluminum. Transforms the surface into aluminum oxide (hard and inert), allowing for dyeing.
+Hard Chrome;Hard Coating;Steel;Prolonged Electroplating;Prior Grinding (recommended);250;Focused on extreme hardness and wear resistance (e.g., hydraulic cylinder rods).
+Polyurethane (PU) Painting;Painting;Steel / Aluminum;Liquid Application (Spray);Phosphating (Steel) or Primer;800;Premium aesthetic finish, with excellent UV resistance (does not chalk/fade in the sun).
+Epoxy Powder Coating;Painting;Steel / Aluminum;Electrostatic Powder + Oven;Zinc or Iron Phosphating;800;High chemical and mechanical impact resistance, but suffers chalking if exposed directly to the sun.
+KTL (E-Coat / Cataphoresis) Painting;Painting;Steel / Aluminum;Electrophoretic Immersion + Oven;Tricationic Phosphating;1000;Electrical immersion painting. Excellent penetration in tubes and hidden parts. Automotive standard.
+Geomet / Flake;Special;Steel;Dip-Spin;Abrasive Blasting;1500;Zinc/aluminum flakes. Does not cause hydrogen embrittlement. Gold standard for structural fasteners.

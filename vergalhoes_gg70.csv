@@ -1,0 +1,6 @@
+ID;Norma_Especificacao;Bitola_mm;Escoamento_MPa;Resistencia_MPa;Relacao_Elastica;Alongamento_pct;Pino_Dobramento;Soldabilidade;Peso_Teorico_kg_m
+REB-GG70-001;Gerdau GG 70;12.5;700;770;1.10;8;3 Ø;Soldável;0.963
+REB-GG70-002;Gerdau GG 70;16.0;700;770;1.10;8;3 Ø;Soldável;1.578
+REB-GG70-003;Gerdau GG 70;20.0;700;770;1.10;8;6 Ø;Soldável;2.466
+REB-GG70-004;Gerdau GG 70;25.0;700;770;1.10;8;6 Ø;Soldável;3.853
+REB-GG70-005;Gerdau GG 70;32.0;700;770;1.10;8;6 Ø;Soldável;6.313

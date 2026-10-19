@@ -1,0 +1,16 @@
+ID,espessura mm,espessura polegada (fracao),espessura polegada (decimal),bitola,aplicacao principal,outras aplicacoes
+CHP-001,0.75,"3/64""",0.299,Chapa 22,Eletrodutos,calhas e perfis leves
+CHP-002,0.90,"1/32""",0.359,Chapa 20,Painéis metálicos,gabinetes e caixas elétricas
+CHP-003,1.20,"3/64""",0.478,Chapa 18,Móveis de aço,dutos e revestimentos
+CHP-004,1.50,"1/16""",0.598,Chapa 16,Portas,gabinetes e perfis formados a frio
+CHP-005,1.90,"5/64""",0.747,Chapa 14,Chassis leves,tubulações industriais leves
+CHP-006,2.65,"7/64""",1.046,Chapa 12,Tubos estruturais padrão (ex: DIN 2440),caldeiraria
+CHP-007,3.175,"1/8""",1.250,"1/8""",Chapas industriais,cortes a laser e estruturas leves
+CHP-008,3.40,"9/64""",1.345,Chapa 10,Bases estruturais,tanques e estruturas soldadas
+CHP-009,4.75,"3/16""",1.875,"3/16""",Chapas grossas estruturais,reforços de máquinas
+CHP-010,6.35,"1/4""",2.500,"1/4""",Paredes de tanques,mesas de máquinas e bases
+CHP-011,7.938,"5/16""",3.125,"5/16""",Flanges,conexões e peças usinadas robustas
+CHP-012,9.525,"3/8""",3.750,"3/8""",Estruturas pesadas,sapotas e mesas de corte
+CHP-013,12.700,"1/2""",5.000,"1/2""",Placas de base estruturais,pilares e mesas grossas
+CHP-014,15.875,"5/8""",6.250,"5/8""",Componentes mecânicos pesados,caldeiraria estrutural
+CHP-015,19.050,"3/4""",7.500,"3/4""",Placas de grande resistência,bases de prensas e carcaças

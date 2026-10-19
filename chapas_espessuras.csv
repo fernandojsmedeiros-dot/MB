@@ -1,0 +1,35 @@
+ID;Categoria;Norma;Bitola_MSG;Espessura_pol;Espessura_mm;Peso_kg_m2;Aplicacao_Tipica
+BOB-001;Fina a Frio;NBR 6663;28;"30/64""";0.40;3.04;Uso geral / Estampagem leve
+BOB-002;Fina a Frio;NBR 6663;26;"11/64""";0.45;3.60;Uso geral / Estampagem leve
+BOB-003;Fina a Frio;NBR 6663;24;"15/64""";0.60;4.80;Uso geral / Estampagem leve
+BOB-004;Fina a Frio;NBR 6663;22;"5/32""";0.75;6.00;Uso geral / Estampagem
+BOB-005;Fina a Frio;NBR 6663;20;"3/64""";0.90;7.20;Uso geral / Estampagem
+BOB-006;Fina a Frio;NBR 6663;18;"1/16""";1.20;9.60;Painéis e gabinetes
+BOB-007;Fina a Frio;NBR 6663;16;"1/16""";1.50;12.00;Estruturas leves
+BOB-008;Fina a Frio;NBR 6663;14;"5/64""";1.90;15.20;Estruturas leves
+BOB-009;Fina a Quente;NBR 6663;16;"1/16""";1.50;12.00;Estruturas e caldeiraria
+BOB-010;Fina a Quente;NBR 6663;14;"5/64""";2.00;16.00;Estruturas e caldeiraria
+BOB-011;Fina a Quente;NBR 6663;13;"3/32""";2.25;18.00;Estruturas e caldeiraria
+BOB-012;Fina a Quente;NBR 6663;12;"7/64""";2.65;21.20;Chassis e bases
+BOB-013;Fina a Quente;NBR 6663;11;"1/8""";3.00;24.00;Chassis e bases
+BOB-014;Fina a Quente;NBR 6663;10;"9/64""";3.35;26.80;Estrutura pesada
+BOB-015;Fina a Quente;NBR 6663;9;"5/32""";3.75;30.00;Estrutura pesada
+BOB-016;Fina a Quente;NBR 6663;8;"11/64""";4.25;34.00;Estrutura pesada
+BOB-017;Fina a Quente;NBR 6663;7;"3/16""";4.50;36.00;Placas de base
+BOB-018;Fina a Quente;NBR 6663;"3/16""";"3/16""";4.75;38.00;Placas de base e conexões
+BOB-019;Fina a Quente;NBR 6663;"1/4""";"1/4""";6.35;50.00;Placas grossas e estruturais
+BOB-020;Galvalume;NBR 7013;30;"30/64""";0.35;2.55;Coberturas e telhas
+BOB-021;Galvalume;NBR 7013;28;"11/64""";0.43;3.10;Coberturas e telhas
+BOB-022;Galvalume;NBR 7013;26;"15/64""";0.50;3.65;Ambientes corrosivos
+BOB-023;Galvalume;NBR 7013;24;"5/32""";0.65;4.70;Ambientes corrosivos
+BOB-024;Zincada (Galv.);NBR 7013;32;"32/64""";0.30;2.40;Calhas e rufos
+BOB-025;Zincada (Galv.);NBR 7013;30;"30/64""";0.35;2.80;Calhas e rufos
+BOB-026;Zincada (Galv.);NBR 7013;28;"11/64""";0.43;3.44;Duto de ventilação
+BOB-027;Zincada (Galv.);NBR 7013;26;"15/64""";0.50;4.00;Duto de ventilação
+BOB-028;Zincada (Galv.);NBR 7013;24;"5/32""";0.65;5.20;Perfis formados
+BOB-029;Zincada (Galv.);NBR 7013;22;"5/32""";0.80;6.40;Perfis formados
+BOB-030;Zincada (Galv.);NBR 7013;20;"3/64""";0.95;7.60;Autopeças leves
+BOB-031;Zincada (Galv.);NBR 7013;19;"19/64""";1.11;8.88;Autopeças leves
+BOB-032;Zincada (Galv.);NBR 7013;18;"1/16""";1.25;10.00;Construção civil
+BOB-033;Zincada (Galv.);NBR 7013;16;"1/16""";1.55;12.40;Estruturas leves
+BOB-034;Zincada (Galv.);NBR 7013;14;"5/64""";1.95;15.60;Estruturas e perfis

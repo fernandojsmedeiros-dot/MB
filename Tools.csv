@@ -1,0 +1,17 @@
+material_ou_bitola;sistema;chave_soquete_mm;chave_boca_mm;chave_allen_mm;chave_torx;clearence_soquete_ext_mm
+M4;Metrico;7;7;3;T20;11.0
+M5;Metrico;8;8;4;T25;12.5
+M6;Metrico;10;10;5;T30;15.0
+M8;Metrico;13;13;6;T40;19.0
+M10;Metrico;16 (ISO) / 17 (DIN);16 (ISO) / 17 (DIN);8;T50;23.5
+M12;Metrico;18 (ISO) / 19 (DIN);18 (ISO) / 19 (DIN);10;T55;26.0
+M14;Metrico;21 (ISO) / 22 (DIN);21 (ISO) / 22 (DIN);12;T60;30.0
+M16;Metrico;24;24;14;T70;33.0
+M18;Metrico;27;27;14;T80;37.0
+M20;Metrico;30;30;17;T90;41.0
+M22;Metrico;32 (ISO) / 34 (DIN);32 (ISO) / 34 (DIN);17;T100;44.0
+M24;Metrico;36;36;19;T100;49.0
+1/4 UNC;Imperial;7/16";7/16";3/16";T27;16.5
+5/16 UNC;Imperial;1/2";1/2";1/4";T40;18.5
+3/8 UNC;Imperial;9/16";9/16";5/16";T45;21.0
+1/2 UNC;Imperial;3/4";3/4";3/8";T55;27.5
